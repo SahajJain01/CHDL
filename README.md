@@ -6,7 +6,6 @@ Course Hero File Downloader. Free.
 This script was hastily concocted. CHDL is a Chrome Extension that attempts to download full (unblurred) documents from Course Hero.
 
 ## Installation
-The extension must be installed in Chrome's developer mode.
 -First, go to chrome://extensions/
 
 -Then, in the top-right hand corner, turn on 'Developer Mode'
