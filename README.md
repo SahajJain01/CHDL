@@ -7,9 +7,13 @@ This script was hastily concocted. CHDL is a Chrome Extension that attempts to d
 
 ## Installation
 The extension must be installed in Chrome's developer mode.
+-First, go to chrome://extensions/
+-Then, in the top-right hand corner, turn on 'Developer Mode'
+-Once youve extracted the repositories folder, click on the 'load unpacked' option and select the 'Min' file
+-Profit
 
 ## Usage
-You must be on a document page on CourseHero to use the extension from either the toolbar or the right-click context menu, and you must be signed in on the CourseHero website.
+You must signed in and viewing a document on CourseHero to use the extension, you can activate it from either the toolbar or the right-click context menu.
 
 The extension works due to a weird permission error on CourseHero's end that fails to check what files users should be able to access.
 
