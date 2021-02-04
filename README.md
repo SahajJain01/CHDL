@@ -22,3 +22,4 @@ The extension works due to a weird permission error on CourseHero's end that fai
 Singular file downloads seem to have a very high success rate when the entire document is shown (even if most pages are blurred).
 
 Try out the "Download all files from this course." option to start downloading relevant files - it shouldn't be more than a handful. 
+.
